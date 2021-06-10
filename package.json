@@ -1,0 +1,19 @@
+{
+  "name": "komrade-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseiden/komrade-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aseiden/komrade-bot/issues"
+  },
+  "homepage": "https://github.com/aseiden/komrade-bot#readme"
+}
